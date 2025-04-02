@@ -1,0 +1,14 @@
+
+{
+  "name": "easyprofit",
+  "version": "1.0.0",
+  "description": "EasyProfit Backend for Ad Click Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  }
+}
